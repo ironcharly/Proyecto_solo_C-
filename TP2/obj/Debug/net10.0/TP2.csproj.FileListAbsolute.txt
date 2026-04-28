@@ -1,0 +1,15 @@
+D:\OneDrive\github\Proyecto_solo_C-\TP2\bin\Debug\net10.0\TP2.exe
+D:\OneDrive\github\Proyecto_solo_C-\TP2\bin\Debug\net10.0\TP2.deps.json
+D:\OneDrive\github\Proyecto_solo_C-\TP2\bin\Debug\net10.0\TP2.runtimeconfig.json
+D:\OneDrive\github\Proyecto_solo_C-\TP2\bin\Debug\net10.0\TP2.dll
+D:\OneDrive\github\Proyecto_solo_C-\TP2\bin\Debug\net10.0\TP2.pdb
+D:\OneDrive\github\Proyecto_solo_C-\TP2\obj\Debug\net10.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\github\Proyecto_solo_C-\TP2\obj\Debug\net10.0\TP2.AssemblyInfoInputs.cache
+D:\OneDrive\github\Proyecto_solo_C-\TP2\obj\Debug\net10.0\TP2.AssemblyInfo.cs
+D:\OneDrive\github\Proyecto_solo_C-\TP2\obj\Debug\net10.0\TP2.csproj.CoreCompileInputs.cache
+D:\OneDrive\github\Proyecto_solo_C-\TP2\obj\Debug\net10.0\TP2.sourcelink.json
+D:\OneDrive\github\Proyecto_solo_C-\TP2\obj\Debug\net10.0\TP2.dll
+D:\OneDrive\github\Proyecto_solo_C-\TP2\obj\Debug\net10.0\refint\TP2.dll
+D:\OneDrive\github\Proyecto_solo_C-\TP2\obj\Debug\net10.0\TP2.pdb
+D:\OneDrive\github\Proyecto_solo_C-\TP2\obj\Debug\net10.0\TP2.genruntimeconfig.cache
+D:\OneDrive\github\Proyecto_solo_C-\TP2\obj\Debug\net10.0\ref\TP2.dll
